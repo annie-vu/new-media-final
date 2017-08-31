@@ -3,6 +3,8 @@
 ## Declare characters used by this game. The color argument colorizes the name
 ## of the character.
 
+## poesifjs;dlkf
+
 image chara default = "testChara.png"
 
 define s = Character('???', color = "#ffffff")
